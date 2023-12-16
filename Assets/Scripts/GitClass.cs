@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class GitClass : MonoBehaviour
 {
-    string myName = "Git";
-    int myPower = 9001;
+    string myName = "Aalo";
+    int myPower = 10600;
 
     // Start is called before the first frame update
     void Start()
@@ -14,7 +14,7 @@ public class GitClass : MonoBehaviour
 
         if (myPower > 9000)
         {
-            print("It's over 9000!!!");
+            print("My power is unlimited");
         }
     }
 
